@@ -11,7 +11,7 @@ Name : Abhijeet kumar
 Education: B.Tech in Computer Science & Engineering 
 Linkedin:
 
-linkedin.com/in/abhijeet-kodwal-8319362ab
+https://www.linkedin.com/in/abhijeet-kodwal-8319362ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 # Acknowledgments
 I thank Codsoft for providing me with this internship opportunity.
